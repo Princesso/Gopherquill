@@ -24,7 +24,8 @@ GopherQuill is an open-source tool designed to streamline code reviews by analyz
 ## Installation
 ### Install via Homebrew
 
-``` 
+```
+brew tap Princesso/gopherquill
 brew install gopherquill
 ```
 
