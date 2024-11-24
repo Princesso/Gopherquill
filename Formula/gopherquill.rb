@@ -2,7 +2,7 @@ class Gopherquill < Formula
     desc "A powerful code review tool for developers"
     homepage "https://github.com/Princesso/gopherquill"
     url "https://github.com/Princesso/gopherquill/archive/refs/tags/v0.1.1.tar.gz"
-    sha256 "468906a4bc3b65f9ab7637625d3f108c723f04b6"
+    sha256 "7cb5cd0b546b59f3fd9b8369e28e7e874d09a38d30b7b5a9a1b6c18164cea15a"
   
     depends_on "go" => :build
   
